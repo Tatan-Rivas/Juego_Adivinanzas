@@ -1,0 +1,24 @@
+body{
+    font-size: 40px;
+    text-align: center;
+    background-color: bisque;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(17, 196, 219);
+}
+input{
+    padding: 10px 20px;
+    font-size: 40px;
+}
+button{
+    padding: 19px 30px 12px;
+    background-color: lightseagreen;
+    cursor: pointer;
+}
+#msj{
+    color: #333;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-top: 20px;
+}
